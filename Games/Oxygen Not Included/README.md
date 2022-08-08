@@ -12,7 +12,7 @@
 <br>
 <br>
 
-## Warning
+## ⚠  Warning
 
 Don't use multiple versions of the same mod at a time, <br>
 such as the **SteamWorkshop** version and a manually <br>
@@ -21,7 +21,7 @@ installed one.
 <br>
 <br>
 
-## Download
+## 📥  Download
 
 *Download the mod in one of two ways.*
 
@@ -39,7 +39,7 @@ installed one.
 <br>
 <br>
 
-## Mods Folder
+## 📁  Mods Folder
 
 Navigate to the  `local`  folder, <br>
 create it if it doesn't already exist.
@@ -71,7 +71,7 @@ create it if it doesn't already exist.
 <br>
 <br>
 
-## Placement
+## 📦  Placement
 
 Place the extracted ZIP archive in it.
 
