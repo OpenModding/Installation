@@ -16,6 +16,8 @@
 
 *Download the mod in one of two ways.*
 
+<br>
+
 -   Click on `Releases` in the right <br>
     sidebar and choose the archive.
     
