@@ -12,13 +12,22 @@
 <br>
 <br>
 
+## Warning
+
+Don't use multiple versions of the same mod at a time, <br>
+such as the **SteamWorkshop** version and a manually <br>
+installed one.
+
+<br>
+<br>
+
 ## Download
 
 *Download the mod in one of two ways.*
 
 <br>
 
--   Click on `Releases` in the right <br>
+-   Click on  `Releases`  in the right <br>
     sidebar and choose the archive.
     
     <br>
