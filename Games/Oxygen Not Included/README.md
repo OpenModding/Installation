@@ -12,54 +12,57 @@
 <br>
 <br>
 
-## Steps
+## Download
+
+*Download the mod in one of two ways.*
+
+-   Click on `Releases` in the right <br>
+    sidebar and choose the archive.
+    
+    <br>
+
+-   Download the ZIP archive with
+
+    <kbd>  Code  </kbd>  ➞  <kbd>  Download ZIP  </kbd>
+
+<br>
+<br>
+
+## Mods Folder
+
+Navigate to the  `local`  folder, <br>
+create it if it doesn't already exist.
 
 <br>
 
--   Download the mod in one of two ways:
+![Badge Windows]
 
-    -   Click on `Releases` in the right <br>
-        sidebar and choose the archive.
-    
-    -   Download the ZIP archive with
-    
-        <kbd>  Code  </kbd>  ➞  <kbd>  Download ZIP  </kbd>
+```
+%USERPROFILE%\Documents\Klei\OxygenNotIncluded\mods\local
+```
 
-    <br>
+<br>
 
--   Navigate to the  `local`  folder.
+![Badge Linux]
 
-    <br>
+```
+~/.config/unity3d/Klei/Oxygen Not Included/mods/Local
+```
 
-    ![Badge Windows]
+<br>
 
-    ```
-    %USERPROFILE%\Documents\Klei\OxygenNotIncluded\mods\local
-    ```
+![Badge MacOS]
 
-    <br>
+```
+~/Library/Application Support/unity.Klei.Oxygen Not Included/mods/Local
+```
 
-    ![Badge Linux]
+<br>
+<br>
 
-    ```
-    ~/.config/unity3d/Klei/Oxygen Not Included/mods/Local
-    ```
+## Placement
 
-    <br>
-
-    ![Badge MacOS]
-
-    ```
-    ~/Library/Application Support/unity.Klei.Oxygen Not Included/mods/Local
-    ```
-    
-    <br>
-    
--   Create the  `local`  folder if necessary.
-
-    <br>
-
--   Place the extracted ZIP archive in it.
+Place the extracted ZIP archive in it.
 
 <br>
 
